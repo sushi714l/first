@@ -2,4 +2,4 @@
 
 #my first code
 
-echo (this is my first code)
+echo this is my first code
